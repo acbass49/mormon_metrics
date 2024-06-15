@@ -79,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-image','listing-categories','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -199,63 +199,53 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-Date
-</th>
-<th>
-Title
-</th>
-<th>
-</th>
-<th>
-Categories
-</th>
-<th>
-Reading Time
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-categories="Church Education" data-listing-date-sort="1715493600000" data-listing-file-modified-sort="1718490614000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="386" data-listing-title-sort="BYU Acceptance Rates" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">May 12, 2024</span>
-</td>
-<td>
-<a href="./posts/college_acceptance/index.html" class="title listing-title">BYU Acceptance Rates</a>
-</td>
-<td>
-<span class="listing-image"><img src="https://brightspotcdn.byu.edu/31/bf/faa1cee3405387ff8d0d135ffab1/1810-23-0021-1200-4.jpg" style="height: 40px;"></span>
-</td>
-<td>
-<span class="listing-categories">Church Education</span>
-</td>
-<td>
-<span class="listing-reading-time">2 min</span>
-</td>
-</tr>
-<tr data-index="1" data-categories="Demographics" data-listing-date-sort="1715061600000" data-listing-file-modified-sort="1718490779279" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="793" data-listing-title-sort="Myth of Latter-day Saint Prosperity" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">May 7, 2024</span>
-</td>
-<td>
-<a href="./posts/income_myth/index.html" class="title listing-title">Myth of Latter-day Saint Prosperity</a>
-</td>
-<td>
-<span class="listing-image"><img src="https://s3.amazonaws.com/ccg-corporate-production/news-images/Deseret%20Currency_lg.jpeg" style="height: 40px;"></span>
-</td>
-<td>
-<span class="listing-categories">Demographics</span>
-</td>
-<td>
-<span class="listing-reading-time">4 min</span>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Church Education" data-listing-date-sort="1715493600000" data-listing-file-modified-sort="1718490614000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="386">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/college_acceptance/index.html" class="no-external">BYU Acceptance Rates</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/college_acceptance/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Church Education'); return false;">
+Church Education
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/college_acceptance/index.html" class="no-external">
+<div class="listing-date">
+May 12, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="Demographics" data-listing-date-sort="1715061600000" data-listing-file-modified-sort="1718490779279" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="793">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/income_myth/index.html" class="no-external">Myth of Latter-day Saint Prosperity</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/income_myth/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Demographics'); return false;">
+Demographics
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/income_myth/index.html" class="no-external">
+<div class="listing-date">
+May 7, 2024
+</div>
+</a>
+</div>
+</div>
+</div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
