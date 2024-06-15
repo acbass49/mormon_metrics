@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "mormon metrics"
+  navbar:
+    left:
+      - about.qmd
+      - href: index.qmd
+        text: Blog
+    logo: file-bar-graph.svg
+  favicon: file-bar-graph.svg
+
+format:
+  html:
+    theme: cyborg
+    css: styles.css
+    toc: true
+
+
+

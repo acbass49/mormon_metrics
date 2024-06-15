@@ -1,0 +1,12 @@
+---
+title: Blog Posts
+listing:
+  contents: posts
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  fields: [date, title, image, categories, reading-time]
+page-layout: article
+---
