@@ -2,9 +2,7 @@
 title: "Myth of Latter-day Saint Prosperity"
 date: '2024-06-15'
 categories: [Data Journalism, LDS, R, Dataviz]
-image: /about_files/LDS_myth_0.png
-twitter-card: 
-    image: LDS_myth_0.png
+image: https://s3.amazonaws.com/ccg-corporate-production/news-images/Deseret%20Currency_lg.jpeg
 title-block-banner: false
 ---
 ![](https://s3.amazonaws.com/ccg-corporate-production/news-images/Deseret%20Currency_lg.jpeg){fig-align="center"}
@@ -13,7 +11,7 @@ title-block-banner: false
 
 As a member of the LDS church, I have grown up hearing the claim *although US Latter-day Saints make up only a small percentage of the population, we are disproportionally wealthy when compared to the US general population*. I assume this is a common misconception, given the amount of times I have heard it, as well as something I believed myself. At some point, I came across an article regarding Mormons in the US. I would just refer you to [that article](https://www.pewresearch.org/religion/2009/07/24/a-portrait-of-mormons-in-the-us/) and you could be on your way, but the data is from 2009 - which is almost 15 years ago now! What a perfect opportunity for me to bake up some yummy data snacks regarding the breakdown of Latter-day Saints by household income and how it has changed over time.
 
-### The Snacks
+### The Data
 
 Using data from a large political survey project of [500,000 Interviews from 2019-2021](https://www.voterstudygroup.org/nationscape), I was able to filter the sample to only Latter-day Saint respondents and ended up with a sample 6,452 members found across the United States. I used the same data source as a previous blog post I wrote up [here](/./posts/lds_gop) if interested.
 
