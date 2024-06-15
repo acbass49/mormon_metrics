@@ -10,7 +10,7 @@ website:
         text: Blog
     logo: file-bar-graph.svg
   favicon: file-bar-graph.svg
-  body-footer: |
+  body-header: |
     <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
     <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
   page-footer:
