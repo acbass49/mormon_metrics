@@ -5,6 +5,7 @@ categories: [Church Education]
 image: https://brightspotcdn.byu.edu/31/bf/faa1cee3405387ff8d0d135ffab1/1810-23-0021-1200-4.jpg
 title-block-banner: false
 toc: false
+author: Alex Bass
 ---
 ![](https://brightspotcdn.byu.edu/31/bf/faa1cee3405387ff8d0d135ffab1/1810-23-0021-1200-4.jpg){fig-align="center"}
 

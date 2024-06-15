@@ -5,6 +5,7 @@ categories: [Demographics]
 image: https://s3.amazonaws.com/ccg-corporate-production/news-images/Deseret%20Currency_lg.jpeg
 title-block-banner: false
 toc: false
+author: Alex Bass
 ---
 ![](https://s3.amazonaws.com/ccg-corporate-production/news-images/Deseret%20Currency_lg.jpeg){fig-align="center"}
 
