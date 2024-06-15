@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2023-02-07">
+<meta name="dcterms.date" content="2024-05-12">
 
-<title>mormon metrics - Myth of Latter-day Saint Prosperity</title>
+<title>mormon metrics - BYU Acceptance Rates</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -70,14 +70,10 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
-<meta name="twitter:title" content="mormon metrics - Myth of Latter-day Saint Prosperity">
-<meta name="twitter:description" content="">
-<meta name="twitter:image" content="LDS_myth_0.png">
-<meta name="twitter:card" content="summary_large_image">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -116,28 +112,15 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
-  <li><a href="#the-snacks" id="toc-the-snacks" class="nav-link" data-scroll-target="#the-snacks">The Snacks</a></li>
-  <li><a href="#appendix" id="toc-appendix" class="nav-link" data-scroll-target="#appendix">Appendix</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Myth of Latter-day Saint Prosperity</h1>
+<h1 class="title">BYU Acceptance Rates</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Data Journalism</div>
-    <div class="quarto-category">LDS</div>
-    <div class="quarto-category">R</div>
-    <div class="quarto-category">Dataviz</div>
+    <div class="quarto-category">Church Education</div>
   </div>
   </div>
 
@@ -149,7 +132,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">February 7, 2023</p>
+      <p class="date">May 12, 2024</p>
     </div>
   </div>
   
@@ -163,50 +146,59 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://s3.amazonaws.com/ccg-corporate-production/news-images/Deseret%20Currency_lg.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://brightspotcdn.byu.edu/31/bf/faa1cee3405387ff8d0d135ffab1/1810-23-0021-1200-4.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <section id="introduction" class="level3">
 <h3 class="anchored" data-anchor-id="introduction">Introduction</h3>
-<p>As a member of the LDS church, I have grown up hearing the claim <em>although US Latter-day Saints make up only a small percentage of the population, we are disproportionally wealthy when compared to the US general population</em>. I assume this is a common misconception, given the amount of times I have heard it, as well as something I believed myself. At some point, I came across an article regarding Mormons in the US. I would just refer you to <a href="https://www.pewresearch.org/religion/2009/07/24/a-portrait-of-mormons-in-the-us/">that article</a> and you could be on your way, but the data is from 2009 - which is almost 15 years ago now! What a perfect opportunity for me to bake up some yummy data snacks regarding the breakdown of Latter-day Saints by household income and how it has changed over time.</p>
+<p>I was curious how admission rates have changed over time, so I did a little digging to find out. I have always thought that BYU-Provo was the most difficult school to get into of the Mormon colleges, but I wanted to look at a few other schools to including BYU Hawaii and the eastern LDS-adjacent Southern Virginia University.</p>
 </section>
-<section id="the-snacks" class="level3">
-<h3 class="anchored" data-anchor-id="the-snacks">The Snacks</h3>
-<p>Using data from a large political survey project of <a href="https://www.voterstudygroup.org/nationscape">500,000 Interviews from 2019-2021</a>, I was able to filter the sample to only Latter-day Saint respondents and ended up with a sample 6,452 members found across the United States. I used the same data source as a previous blog post I wrote up <a href="../.././posts/lds_gop">here</a> if interested.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="LDS_myth_1.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
-</figure>
-</div>
-<p>From this household income figure, we can answer our our first question! In 2021, the LDS actually has larger lower and middle classes and has a smaller proportion of people in the highest income bracket than the rest of the population. Hopefully, this is enough to convince you that Latter-day Saints being proportionally wealthier is a myth.</p>
-<p>I included Jews for the sake of including a group that <em>actually is</em> proportionally wealthy, and the gap is large. According to our data, the Jews are <em>more than twice as likely to be in the top income bracket</em> than Latter-day Saints.</p>
-<p>Now lets look at how this trend has changed over the last 15 years…</p>
-<p>Our data source we used above is only for 2019-21, so we need to combine another source for this next graph. Pew Research Center publishes a <a href="https://www.pewresearch.org/religion/religious-landscape-study/">religous landscape study</a> that collects large sample sizes of most religious groups in the United States. For Latter-day Saints, there is a sample of around 500 for this study which was fielded in 2007 and 2014. From this, we can look at 3 snapshots of LDS income over the last 15 years.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="LDS_myth_2.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
-</figure>
-</div>
-<p>It definitely looks like income is increasing over time among Latter-day Saints. In the 100k+ group, we see 16% to 20% then 29%. However, this doesn’t account for forces like inflation and how the overall US population has moved over the last 15 years. So let’s make another one, to see how income has changed compared to the general population</p>
-<p><em>Side note about the above figure: I find it interesting that the proportion of LDS people in the lowest income bracket has remained relatively stable over time. While we don’t have the data we need to safely make this claim, our graph could suggest that there is a slight income disparity growing within the church as the middle income bracket shrinks over time.</em></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="LDS_myth_3.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
-</figure>
-</div>
-<p>Looking now at the Latter - day Saint group over time, the percentage of households making 100k+ consistently remains lower than the overall population. Also, it seems that the gap between the overall population and Latter - day Saints is growing over time. In 2007, there is a 6 point difference and goes from 6 to 8 to finally 11. Perhaps not only are Latter-day saints below the average, but may even be getting poorer over time!</p>
-<p>Latter-day Saints are not a poor group overall (30% make 6-figures+!), this information just disputes the claim that Latter-Day Saints are proportionally wealthy.</p>
+<section id="data" class="level3">
+<h3 class="anchored" data-anchor-id="data">Data</h3>
+<p>The data in this post is from <a href="https://nces.ed.gov">NCES</a> which has a survey where US universities report data on various aspects of the college including admissions. If you explore the website, you can find numerous data sources about different aspects of the American education system from elementary school to high school and universities.</p>
 </section>
-<section id="appendix" class="level3">
-<h3 class="anchored" data-anchor-id="appendix">Appendix</h3>
-<p>The code that I used to analyze this data and create the graphs above are found on <a href="https://github.com/acbass49/Nationscape">github</a>. Please reach out with any questions or thoughts.</p>
-<p>For futher enrichment of those interested, here is the graph with several more religions.</p>
+<section id="chart" class="level3">
+<h3 class="anchored" data-anchor-id="chart">Chart</h3>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="LDS_myth_4.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="Chart_2.png" class="img-fluid figure-img"></p>
+<figcaption>Figure 1: Admission of LDS Colleges</figcaption>
 </figure>
 </div>
-<p>As you can see, of the religions we included here, Mormons are the least likely to make $100k+.</p>
+<p>Though I would have loved to look back further, the NCES survey started recording admission data in 2014, so that’s what we have.</p>
+<p>A few findings…</p>
+<ul>
+<li>More students are accepted into BYU-Provo now as compared to the past. In 2014, it was 50% and most recently is 67%.</li>
+<li>Number of applicants to BYU-Idaho has increased over time though the acceptance rate has held constant.</li>
+<li>BYU-Hawaii accepts around the same amount of students each year, but the number that have applied has been a bit volatile in recent years.</li>
+<li>SVU has received a similar number of applicants over the years, but is now accepting almost all applicants compared to around 50% in 2014.</li>
+</ul>
+</section>
+<section id="discussion" class="level3">
+<h3 class="anchored" data-anchor-id="discussion">Discussion</h3>
+<p>How does this track with what you have seen? Have you noticed more students getting in to BYU-Provo?</p>
+<div id="disqus_thread">
+
+</div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    var disqus_config = function () {
+    this.page.url = "https://mormonmetrics.com/posts/college_acceptance/";  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = "college_acceptance"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://www-mormonmetrics-com.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>
+Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>
 
 
 </section>
@@ -600,6 +592,30 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="../../index.html">
+<p>About Mormon Metrics</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="../../posts/income_myth/index.html">
+<p>Latest Post</p>
+</a>
+  </li>  
+</ul>
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 

@@ -1,9 +1,10 @@
 ---
 title: "Myth of Latter-day Saint Prosperity"
-date: '2024-06-15'
-categories: [Data Journalism, LDS, R, Dataviz]
+date: '2024-05-07'
+categories: [Demographics]
 image: https://s3.amazonaws.com/ccg-corporate-production/news-images/Deseret%20Currency_lg.jpeg
 title-block-banner: false
+toc: false
 ---
 ![](https://s3.amazonaws.com/ccg-corporate-production/news-images/Deseret%20Currency_lg.jpeg){fig-align="center"}
 
@@ -46,3 +47,22 @@ For futher enrichment of those interested, here is the graph with several more r
 ![](LDS_myth_4.png){fig-align="center"}
 
 As you can see, of the religions we included here, Mormons are the least likely to make $100k+.
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    var disqus_config = function () {
+    this.page.url = "https://mormonmetrics.com/posts/income_myth/";  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = "income_myth"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://www-mormonmetrics-com.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

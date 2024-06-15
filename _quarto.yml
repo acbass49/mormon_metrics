@@ -10,6 +10,12 @@ website:
         text: Blog
     logo: file-bar-graph.svg
   favicon: file-bar-graph.svg
+  page-footer:
+    center: 
+      - text: "About Mormon Metrics"
+        href: index.qmd
+      - text: "Latest Post"
+        href: posts/income_myth/index.qmd
 
 format:
   html:

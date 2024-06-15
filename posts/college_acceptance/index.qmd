@@ -1,0 +1,52 @@
+---
+title: "BYU Acceptance Rates"
+date: '2024-05-12'
+categories: [Church Education]
+image: https://brightspotcdn.byu.edu/31/bf/faa1cee3405387ff8d0d135ffab1/1810-23-0021-1200-4.jpg
+title-block-banner: false
+toc: false
+---
+![](https://brightspotcdn.byu.edu/31/bf/faa1cee3405387ff8d0d135ffab1/1810-23-0021-1200-4.jpg){fig-align="center"}
+
+### Introduction
+
+I was curious how admission rates have changed over time, so I did a little digging to find out. I have always thought that BYU-Provo was the most difficult school to get into of the Mormon colleges, but I wanted to look at a few other schools to including BYU Hawaii and the eastern LDS-adjacent Southern Virginia University.
+
+### Data
+The data in this post is from [NCES](https://nces.ed.gov) which has a survey where US universities report data on various aspects of the college including admissions. If you explore the website, you can find numerous data sources about different aspects of the American education system from elementary school to high school and universities.
+
+### Chart
+
+![Figure 1: Admission of LDS Colleges](Chart_2.png)
+
+Though I would have loved to look back further, the NCES survey started recording admission data in 2014, so that's what we have.
+
+A few findings...
+
+- More students are accepted into BYU-Provo now as compared to the past. In 2014, it was 50% and most recently is 67%.
+- Number of applicants to BYU-Idaho has increased over time though the acceptance rate has held constant.
+- BYU-Hawaii accepts around the same amount of students each year, but the number that have applied has been a bit volatile in recent years.
+- SVU has received a similar number of applicants over the years, but is now accepting almost all applicants compared to around 50% in 2014.
+
+### Discussion
+
+How does this track with what you have seen? Have you noticed more students getting in to BYU-Provo?
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    var disqus_config = function () {
+    this.page.url = "https://mormonmetrics.com/posts/college_acceptance/";  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = "college_acceptance"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://www-mormonmetrics-com.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
