@@ -1,7 +1,7 @@
 ---
 title: "Mormons Are Becoming Less Republican"
 date: '2024-05-17'
-categories: [Politics]
+categories: [Politics, Demographics]
 image: https://cdn.theatlantic.com/thumbor/FkeTlG_tPDWmRc1wJdpKEJ86T6w=/0x157:3812x2301/960x540/media/img/mt/2016/03/AP_1603190329571802/original.jpg
 title-block-banner: false
 toc: false
