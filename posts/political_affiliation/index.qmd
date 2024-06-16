@@ -18,7 +18,7 @@ The data in this post is from the [GSS](https://gss.norc.org) which has data fro
 
 ### Chart
 
-![Figure 1: Admission of LDS Colleges](Chart_3.png)
+![Figure 1: Mormon Political Affiliation](Chart_3.png)
 
 Let's talk about some takeaways looking at our chart...
 

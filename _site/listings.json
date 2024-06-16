@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/education/index.html",
       "/posts/political_affiliation/index.html",
       "/posts/college_acceptance/index.html",
       "/posts/income_myth/index.html"
