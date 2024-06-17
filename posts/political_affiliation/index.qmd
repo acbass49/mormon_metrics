@@ -11,7 +11,7 @@ author: Alex Bass
 
 ### Introduction
 
-Recently, a few articles have come out about how Mormons are less favorable toward Donald Trump than previous Republican candidates. Specifically, they say [the distaste still lingers here in 2024](https://www.americansurveycenter.org/newsletter/trumps-problem-with-mormon-voters-is-getting-worse/) and [younger Mormons may be moving away more quickly than other younger folks](https://www.graphsaboutreligion.com/p/young-mormons-are-abandoning-the). Lets look at some of these trends to see what's happening with Mormon political affiliation.
+Recently, a few articles have come out about how Mormons are less favorable toward Donald Trump than previous Republican candidates. Specifically, they say [the distaste still lingers here in 2024](https://www.americansurveycenter.org/newsletter/trumps-problem-with-mormon-voters-is-getting-worse/) and [younger Mormons may be moving away more quickly than other younger folks](https://www.graphsaboutreligion.com/p/young-mormons-are-abandoning-the). While we won't dive into the age X party affiliation breakdown given our limited sample size with the GSS, let's look at some overall trends.
 
 ### Data
 The data in this post is from the [GSS](https://gss.norc.org) which has data from 1978 to present. Unfortunately, due to the limited sample size of the GSS (having a few thousand respondents each wave), it can be difficult to see trends. For this chart, I combined the data by decade to try and see a trend. Each data point for mormons represent around 150-200 people, but it should be interpreted with caution as the respondents are spread out over a decade after all. The hope is that we will be able to see large shifts and trends for our question. Perhaps at a later date, I will use the [CES](https://cces.gov.harvard.edu) data which has larger samples to look closer at some of these trends.
@@ -26,7 +26,7 @@ Let's talk about some takeaways looking at our chart...
 - For Mormons, we see a similar trend with true independents increasing; however, Mormons who previously identified with both parties are leaving it seems.
 - If you look closely, **you can see that Republicans are leaving at a twice the rate (-23pts) than Democrats(-12pts) since the 80s** which supports some of the claims in the articles mentioned above.
 
-Though, it is important to remember to interpret these with caution as these Mormon datapoints are being combined over a decade with only ~ 175 people for each data point. 
+Though, it is important to remember to interpret these with caution as these Mormon datapoints are being combined over a decade with only ~ 175 people for each data point. I look forward to confirming these results with other datasets with a higher Mormon sample size.
 
 ### Discussion
 

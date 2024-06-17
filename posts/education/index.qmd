@@ -11,32 +11,40 @@ author: Alex Bass
 
 ### Introduction
 
-I've been seeing a few places that the perception is that Mormons have a large middle class group ["with above average education levels"](https://www.americansurveycenter.org/newsletter/trumps-problem-with-mormon-voters-is-getting-worse/), but after seeing some income data from Nationscape I was curious what nationscape data had for Mormon education levels. 
+I've been seeing a few places that the perception is that Mormons have a large middle class group ["with above average education levels"](https://www.americansurveycenter.org/newsletter/trumps-problem-with-mormon-voters-is-getting-worse/), but after seeing some income data from Nationscape I was curious what nationscape data had for Mormon education levels. Because, [in a previous post](/./posts/income_myth/index.qmd), we saw Mormon's having a more modest salary compared to previous survey results.
 
 ### Data
-The data in this post is from the [Nationscape](https://www.voterstudygroup.org/nationscape) which has data from 2019-2021. Because of the large sample sizes of the project, we are able to get a several thousand LDS respondents (6452 to be exact) which is significantly better than things like the religious landscape study by [Pew Research Center](https://www.pewresearch.org/religious-landscape-study/database/). But, lets see what it says...
+The data in this post is from the [Nationscape](https://www.voterstudygroup.org/nationscape) which has data from 2019-2021. Because of the large sample sizes of the project, we are able to get a several thousand Mormon respondents (6452 to be exact) which is significantly higher than many other studies such as the [religious landscape study by Pew Research Center](https://www.pewresearch.org/religious-landscape-study/database/). 
 
 ### Charts
 
-What AEI reports makes sense when you look at some of the Pew Research data. In 2009, they published a [Mormon Profile](https://www.pewresearch.org/religion/2009/07/24/a-portrait-of-mormons-in-the-us/#:~:text=Mormons%20are%20significantly%20more%20likely,to%20have%20some%20college%20education.) describing high level demographic information. Here is the education figure from that report:
+Personally, I think the "Mormons are more educated" idea lingers because the last time Mormons were prominently in the national US news was in 2012 when Mitt Romney ran for president.
 
-![Figure 1: Mormon Education Levels from 2009 (Pew)](https://assets.pewresearch.org/wp-content/uploads/sites/11/2012/07/Mormons6.gif)
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3728_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Mormon","geo":"US","time":"2004-01-01 2024-06-17"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=Mormon&hl=en","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
 
-At this time, we see a lot more "some college" mormons than are in the general population and even slightly more mormons with a college degree. This information tracks with what AEI reported.
+(My suspicion is confirmed in the google trends chart above.) 
+
+Just after the first time Romney ran in 2008, Pew Research Center published [a Mormon demographic profile](https://www.pewresearch.org/religion/2009/07/24/a-portrait-of-mormons-in-the-us/) which had findings showing a large middle class income bracket and higher than average education levels shown in the figure below:
+
+![Figure 1: Mormon Income and Education Levels from 2009 (Pew)](https://assets.pewresearch.org/wp-content/uploads/sites/11/2012/07/Mormons6.gif)
+
+My theory is that "mormons are more educated" and "have a strong income in the middle class" were picked up in large scale in 2012 from this report and cemented in people's minds ever since.
+
+One thing I'll note about the Pew study is that with a sample size of around 500 you'll have a margin of error of around +/- 5pts. Looking at the nationscape data and the 6500 respondents, that number drops to +/- 1pt [according to this tool at least](https://www.surveymonkey.com/mp/margin-of-error-calculator/). So obviously, as our N size increase, our estimates are less error prone.
+
+Now lets look at Nationscape...
 
 ![Figure 2: Overall Education Levels with Nationscape](chart4-1.png)
 
-First of all, let's remember our sample size with Pew is just over 500 compared to our nationscape sample which is more than 10x this. Obviously, more data will cut down our confidence intervals significantly.
+Overall, Mormons don't appear to be as educated as the average american with slightly more people not attending college. This isn't a large gap as the majority of Mormon's attend at least some college, but again, so do most people in the American population.
 
-We still see a larger "some college" group among mormons compared to national numbers, but fewer people getting bachelor's and graduate degrees and a large HS or less group. It's possible this could be a trend where initially (2009) mormons were more educated and had more money, but recently have more members in the middle class(2022).
+It's possible this could be a trend where initially (2009) mormons were more educated and had more money, but recently have less money and are less educated compared to the US population. It also could be that some of the higher educated and higher income Mormons recently left the religion.
 
 ![Figure 3: Education X Gender with Nationscape](Chart_4.png)
 
-Looking specifically at the gender cut, unsurprisingly, the some college group is driven by women who prehaps dropped out of college after having children. As is the trend with the national, Mormon women are a bit more likely to be educated beyond high school than Mormon men.
+Looking specifically at the gender cut, unsurprisingly, the "some college" group is driven by women who perhaps dropped out of college after having children. As is the trend with the national, Mormon women are a bit more likely to be educated beyond high school than Mormon men.
 
-But, overall, Mormons don't appear to be as educated as the average american with slightly more people not attending college. This isn't a large gap as the majority of Mormon's attend some college, but again, so do most people in the American population.
-
-This finding isn't absolute and concrete of course as this deals with internet panel survey sampling where error exists, so I look forward to confirm this with other data sources in the future.
+While these charts are interesting, I look forward to confirming these findings with other data sources.
 
 ### Discussion
 
