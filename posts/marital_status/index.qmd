@@ -1,0 +1,50 @@
+---
+title: "Mormons & Marriage"
+date: '2024-05-31'
+categories: [Demographics]
+image: https://i.pinimg.com/originals/b1/7d/8a/b17d8a8f6643c091b411f3e6e8d5430f.jpg
+title-block-banner: false
+toc: false
+author: Alex Bass
+---
+![](https://i.pinimg.com/originals/b1/7d/8a/b17d8a8f6643c091b411f3e6e8d5430f.jpg){fig-align="center"}
+
+### Introduction
+
+This post needs no grand introduction... I was just curious about how Mormon marital status has changed compared to the US population.
+
+### Data
+The data in this post is from the [GSS](https://gss.norc.org) which has data from 1978 to present. Unfortunately, due to the limited sample size of the GSS (having a few thousand respondents each wave), it can be difficult to see trends. For this chart, I combined the data by decade to try and see a trend. Each data point for mormons represent around 150-200 people, but it should be interpreted with caution as the respondents are spread out over a decade after all. The hope is that we will be able to see large shifts and trends for our question. Perhaps at a later date, I will use the [CES](https://cces.gov.harvard.edu) data which has larger samples to look closer at some of these trends. However, the drawback of more recent datasets are you have a more limited view of time.
+
+### Chart
+
+![Figure 1: US vs. Mormon Marital Status over Time](chart_5.png)
+
+Here are my takeaways from this chart:
+
+- Overall US % married has decreased steadily since 1980 and % never married steadily increasing. This makes sense to me with [more people cohabitating](https://www.pewresearch.org/social-trends/2019/11/06/the-landscape-of-marriage-and-cohabitation-in-the-u-s/).
+- For Mormons, the each line has stayed quite flat and more or less remained unchanged the last 40 years. The Mormons today may look like over American families did 40 years ago. This is quite interesting as the US population has had many shifts on views of marriage during that this time period, but Mormons may not have been as affected or changed by these.
+- Compared to the US population, Mormons are more likely to be married (especially more recently) and less likely to be "never married" or "widowed/divorced/separated."
+
+### Discussion
+
+In your opinion, why have Mormon demographics of marriage hardly changed over the last 40 years?
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    var disqus_config = function () {
+    this.page.url = "https://mormonmetrics.com/posts/marital_status/";  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = "marital_status"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://www-mormonmetrics-com.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
