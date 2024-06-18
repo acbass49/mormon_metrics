@@ -1,6 +1,6 @@
 ---
 title: "Latter-day Saints' General Conference Mentions"
-date: '2024-05-31'
+date: '2024-06-07'
 categories: [General Conference]
 image: https://news-hk.churchofjesuschrist.org/eng/media/orig/2011_orig_6786Audience34.jpg
 title-block-banner: false
