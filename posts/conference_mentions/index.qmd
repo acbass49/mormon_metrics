@@ -1,5 +1,5 @@
 ---
-title: "Latter-day Saints' General Conference Mentions"
+title: "Counting General Conference Words Since The 1800s"
 date: '2024-06-07'
 categories: [General Conference]
 image: https://news-hk.churchofjesuschrist.org/eng/media/orig/2011_orig_6786Audience34.jpg
@@ -11,7 +11,7 @@ author: Alex Bass
 
 ### Introduction
 
-I recently came across an [article of all-time conference analysis](https://www.sltrib.com/religion/2020/09/29/data-reveals-what-latter/) for the Church of Jesus Christ of Latter-day Saints. It references a study done by Quentin Spencer after he compiled a corpus of all general conference talks. In the study, he talks about various trends like using "adversary" more frequently and speakers referencing more scriptures and giving more invitations. I decided to do a few searches of my own.
+I recently came across an [article of all-time conference analysis](https://www.sltrib.com/religion/2020/09/29/data-reveals-what-latter/) for the Church of Jesus Christ of Latter-day Saints. It references a study done by Quentin Spencer after he compiled a corpus of all general conference talks. In the study, he talksh about various trends like using "adversary" more frequently and speakers referencing more scriptures and giving more invitations. I decided to do a few searches of my own.
 
 ### Data
 After googling around for a bit, I came across a free [corpus of LDS General Conference text](https://www.lds-general-conference.org). It takes care of the number crunching and just gives you the results. It even has nice features like accounting for the total number of words used in each decade, so the results are more clear. If you are interested in a word search sort of analysis, I'd recommend this site.
