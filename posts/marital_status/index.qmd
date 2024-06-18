@@ -2,12 +2,12 @@
 title: "Mormons & Marriage"
 date: '2024-05-31'
 categories: [Demographics]
-image: https://i.pinimg.com/originals/b1/7d/8a/b17d8a8f6643c091b411f3e6e8d5430f.jpg
+image: https://s3.r29static.com/bin/entry/000/x,80/1925283/image.jpg
 title-block-banner: false
 toc: false
 author: Alex Bass
 ---
-![](https://i.pinimg.com/originals/b1/7d/8a/b17d8a8f6643c091b411f3e6e8d5430f.jpg){fig-align="center"}
+![](https://s3.r29static.com/bin/entry/000/x,80/1925283/image.jpg){fig-align="center"}
 
 ### Introduction
 
