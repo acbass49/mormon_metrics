@@ -1,0 +1,52 @@
+---
+title: "Latter-day Saints' General Conference Mentions"
+date: '2024-05-31'
+categories: [General Conference]
+image: https://news-hk.churchofjesuschrist.org/eng/media/orig/2011_orig_6786Audience34.jpg
+title-block-banner: false
+toc: false
+author: Alex Bass
+---
+![](https://news-hk.churchofjesuschrist.org/eng/media/orig/2011_orig_6786Audience34.jpg){fig-align="center"}
+
+### Introduction
+
+I recently came across an [article of all-time conference analysis](https://www.sltrib.com/religion/2020/09/29/data-reveals-what-latter/) for the Church of Jesus Christ of Latter-day Saints. It references a study done by Quentin Spencer after he compiled a corpus of all general conference talks. In the study, he talks about various trends like using "adversary" more frequently and speakers referencing more scriptures and giving more invitations. I decided to do a few searches of my own.
+
+### Data
+After googling around for a bit, I came across a free [corpus of LDS General Conference text](https://www.lds-general-conference.org). It takes care of the number crunching and just gives you the results. It even has nice features like accounting for the total number of words used in each decade, so the results are more clear. If you are interested in a word search sort of analysis, I'd recommend this site.
+
+### Chart
+
+![Figure 1: Word mentions in General Conference](Chart_6.png)
+
+Here are my takeaways from this chart:
+
+- I thought it was interesting to see the name of Jesus Christ mentioned much more frequently over the years and especially in recent years. In order to see complete numbers for this decade (2020) we need to close out the decade. All the lines drop because we are currently in year 4 out of 10 in this decade. With this perspective the 2020 decade may set a new record with mentions of "Temples" and "Jesus Christ"
+- There has been more of a mention of temples in recent years which makes sense as so many temples have been recently announced and built. 
+- We see fewer mentions of Joseph Smith in recent year as the narrative may be shifting away from him.
+- Proportionally, men are mentioned significantly more than women in conference; however, in recent years, woemn have been mentioned more though not nearly as much as men.
+
+
+### Discussion
+
+What trends have you noticed in recent years of conference? How have things changed from your perspective?
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    var disqus_config = function () {
+    this.page.url = "https://mormonmetrics.com/posts/marital_status/";  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = "marital_status"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://www-mormonmetrics-com.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

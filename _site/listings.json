@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/conference_mentions/index.html",
       "/posts/marital_status/index.html",
       "/posts/education/index.html",
       "/posts/political_affiliation/index.html",
