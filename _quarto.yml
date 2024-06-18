@@ -18,7 +18,7 @@ website:
       - text: "About Mormon Metrics"
         href: index.qmd
       - text: "Latest Post"
-        href: posts/income_myth/index.qmd
+        href: posts/conference_mentions/index.qmd
 
 format:
   html:
