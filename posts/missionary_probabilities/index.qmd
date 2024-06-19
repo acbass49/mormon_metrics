@@ -4,8 +4,17 @@ date: '2024-06-21'
 categories: [Missionary]
 image: https://newsroom.churchofjesuschrist.org/media/960x540/missionary-letter-edit.jpg
 title-block-banner: false
-toc: false
 author: Alex Bass
+toc: true
+toc-depth: 5
+toc-title: Page Contents
+code-links:
+  - text: R Script
+    icon: code-slash
+    href: /resources/mission_charts.R
+  - text: Data
+    icon: database
+    href: /resources/mission_dataset.csv
 ---
 ![](https://newsroom.churchofjesuschrist.org/media/960x540/missionary-letter-edit.jpg
 ){fig-align="center"}
