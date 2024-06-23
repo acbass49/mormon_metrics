@@ -1,7 +1,7 @@
 ---
 title: "The Church Doesn't Want to be Called 'Mormon'... Has it Worked?"
 date: '2024-06-28'
-categories: [General Conference]
+categories: [Google Trends]
 image: https://www.churchofjesuschrist.org/bc/content/ldsorg/church/news/2018/08/16/580-church-meetinghouse.jpg
 title-block-banner: false
 toc: false
