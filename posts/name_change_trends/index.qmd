@@ -1,0 +1,68 @@
+---
+title: "The Church Doesn't Want to be Called 'Mormon'... Has it Worked?"
+date: '2024-06-28'
+categories: [General Conference]
+image: https://www.churchofjesuschrist.org/bc/content/ldsorg/church/news/2018/08/16/580-church-meetinghouse.jpg
+title-block-banner: false
+toc: false
+author: Alex Bass
+---
+![](https://www.churchofjesuschrist.org/bc/content/ldsorg/church/news/2018/08/16/580-church-meetinghouse.jpg){fig-align="center"}
+
+### Introduction
+In October 2018, after some time of the "I am a Mormon" campaign, [they pivoted to only wanting the church to be identified as "The Church of Jesus Christ of Latter-day Saints."](https://www.churchofjesuschrist.org/study/history/topics/name-of-the-church?lang=eng) I wrote this post in curiosity of how well this change has been adopted by others - now having been almost 6 years since the announcement.
+
+
+### Data
+One great source of data unmuddled by many biases that may exist in other sources is Google Trends. Google Search is not exclusively used (and perhaps used less now with LLMs), but a large percentage of Americans and world citizens for that matter use google and have used for some time. It is great at getting a sense of the relevance and use of words in near real time. This will be great for our purposes!
+
+People have written [great books on findings from Google Trends](https://www.amazon.com/Everybody-Lies-Internet-About-Really-ebook/dp/B01AFXZ2F4/ref=sr_1_1?dib=eyJ2IjoiMSJ9.i1Ryk3rZ5aCM3T9Kfcql3uosKnO2dI3n8PYLQ7PyyMmxhH0B5BsqAS78F4thTfHuNxqnYXPTyhuwQ3pHv7wLGMFMM4bNbLJwPsUH11YXfgtAKKJuL8WYlLWsmIbNOUNscsaGSIpnOW5uMZxDUfsAOx1CviMRPwBae5ejOx9tHuktSheeU2b3hxK7lh5mfIwTDuVPRmPAq73fUOIg88yKx__SLPeIi5pSwAgpPr5cQwD5Vhw4X8MhzWy11NolpHLdQ8fj3qhd7MUUZMhZrYIsByo4lm52o4eK8RQcQgzWAt4.cJ4snz5LlVzWnOIXtdrqj0WdJiWjZw_Ngl-LRWj44Hg&dib_tag=se&hvadid=409973252627&hvdev=c&hvlocphy=9029753&hvnetw=g&hvqmt=e&hvrand=11792347865622208823&hvtargid=kwd-4029974512&hydadcr=22533_11318209&keywords=everybody+lies&qid=1719166534&sr=8-1) (which I would recommend). You can see seasonal trends, growth and decline in words and phrasing, and even [regional evidence of racism in the US](https://www.sciencedirect.com/science/article/abs/pii/S0047272714000929) - which may not be the regional division you expect.
+
+### Charts
+
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3728_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"The Church of Jesus Christ of Latter-day Saints","geo":"US","time":"2004-01-01 2024-06-23"},{"keyword":"Mormon church","geo":"US","time":"2004-01-01 2024-06-23"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=The%20Church%20of%20Jesus%20Christ%20of%20Latter-day%20Saints,Mormon%20church","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+
+Here you can see "Mormon church" in red and "The Church of Jesus Christ of Latter-day Saints" in Blue. A few thoughts:
+
+1. From the announcement in October of 2018, you can see the terms has been immediately more used and the use seems to be growing over time.
+2. The "Mormon church" search dropped a bit immediately, but has since recovered most if not all lost ground.
+3. "Mormon church" is still consistently used more, but its clear the gap has closed a bit since the announcement.
+
+![](./figure1.png)
+
+In the chart above, the yellow line represents the word "Mormon." As you can see, "Mormon" is searched for much more often than both "Mormon Church" and "The Church of Jesus Christ of Latter-day Saints." This term is most likely more helpful in discerning when the LDS church is in the news.
+
+Can you guess what the spike is in 2012? It's when Mitt Romney ran for the US presidency. Despite the church spiking for being in the news here and again since, the overall search volume has decreased over time more recently. This trend was evident before the name change, but the search term volume has more or less flat-lined in the last year.
+
+The largest recent spike in June of 2022 was driven by a popular TV show released called "Under the Banner of Heaven". This was the biggest spike in about the last decade.
+
+![](./figure2.png)
+
+We've looked at some of the macro trends the past two decades, now lets look at some microtrends.
+
+The chart above is the "Mormon" search term over the past 90 days. As you can see, every week it spikes - that is, every Sunday it spikes. Perhaps this is members finding a church building or something else. I'm honestly not certain.
+
+If you are interested in the post, I encourage you to dig around on Google Trends. Perhaps you could find some interesting things I missed, or you could learn about a different topic altogether you're interested in.
+
+### Discussion
+
+Why has the Church of Jesus Christ of Latter-day Saints not been talked about as much? Is this just gradual dropoff from the 2012 Romney spike or something else?
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    var disqus_config = function () {
+    this.page.url = "https://mormonmetrics.com/posts/name_change_trends/";  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = "name_change_trends"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://www-mormonmetrics-com.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
