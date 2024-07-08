@@ -18,7 +18,7 @@ about:
 
 **Purpose:** To better inform the public - mormons and non-mormons alike - of mormon ideas, trends, and demographic movements *backed with the best data available*. Generally, I utilize quality survey datasets such as [GSS](https://gss.norc.org), [NationScape](https://www.voterstudygroup.org/data/nationscape), and the [CES](https://cces.gov.harvard.edu). At times, I will also scrape data from public sources to find insights.
 
-This information is diseminated in a weekly blog out on Friday mornings usually with a new data figure to talk about. Subscribe below if you like!
+This information is diseminated in a weekly blog out on Friday mornings usually with a new data figure to talk about. Subscribe if you like!
 
 **About me:** I am a social scientist and data scientist. I have an undergraduate degree in political science and a masters in data science. I have worked in the political polling industry and, most recently, the marketing data science field the past several years. You can read more about me on [my personal website](https://alexbass.me). 
 
