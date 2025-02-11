@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="data and mormons">
 
-<title>Quick Links – mormon metrics</title>
+<title>Datasets and Scripts – mormon metrics</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,9 +31,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./file-bar-graph.svg" rel="icon" type="image/svg+xml">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -67,12 +69,70 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-categories','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -93,11 +153,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Quick Links</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./data.html"> 
+    <a class="nav-link active" href="./data.html" aria-current="page"> 
 <span class="menu-text">Datasets and Scripts</span></a>
   </li>  
   <li class="nav-item">
@@ -115,48 +175,69 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Link to Dataset">Link to Dataset <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Rscript">Rscript <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Survey Research">Survey Research <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="profile.png" class="about-image
-  rounded " style="width: 20em;">
+<main class="content" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Quick Links</h1>
+<h1 class="title">Datasets and Scripts</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="https://mormonmetrics.substack.com" class="about-link" rel="" target="">
-    <i class="bi bi-substack"></i>
-     <span class="about-link-text">Weekly Blog on Substack</span>
-  </a>
-  <a href="https://www.instagram.com/mormon_metrics/" class="about-link" rel="" target="">
-    <i class="bi bi-instagram"></i>
-     <span class="about-link-text">Weekly Reels on Instagram</span>
-  </a>
-  <a href="https://x.com/mormon_metrics" class="about-link" rel="" target="">
-    <i class="bi bi-youtube"></i>
-     <span class="about-link-text">Occasional Deep Dive on Youtube</span>
-  </a>
-  <a href="https://buymeacoffee.com/acbass49y" class="about-link" rel="" target="">
-    <i class="bi bi-cookie"></i>
-     <span class="about-link-text">Buy me a crumbl cookie</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
-<script async="" defer="" src="https://scripts.simpleanalyticscdn.com/latest.js"></script><p><strong>Purpose:</strong> To better inform the public - mormons and non-mormons alike - of mormon ideas, trends, and demographic movements <em>backed with the best data available</em>. Generally, I utilize quality survey datasets such as <a href="https://gss.norc.org">GSS</a>, <a href="https://www.voterstudygroup.org/data/nationscape">NationScape</a>, and the <a href="https://cces.gov.harvard.edu">CES</a>. At times, I will also scrape data from public sources to find insights.</p>
-<p>This information is diseminated in a weekly blog out on Friday mornings usually with a new data figure to talk about. Subscribe if you like!</p>
-<p><strong>About me:</strong> I am a social scientist and data scientist. I have an undergraduate degree in political science and a masters in data science. I have worked in the political polling industry and, most recently, the marketing data science field. You can read more about me on <a href="https://alexbass.me">my personal website</a>.</p>
-<p><strong>Terminology:</strong> Some latter-day saints may be concerned because my title isn’t <a href="https://www.churchofjesuschrist.org/study/general-conference/2018/10/the-correct-name-of-the-church?lang=eng">the correct name of the church</a>. However, this blog is about the entirety of the <a href="https://en.wikipedia.org/wiki/List_of_denominations_in_the_Latter_Day_Saint_movement">Mormon sect</a> including the Church of Jesus Christ of Latter-Day Saints, Community of Christ, and others. So, in reference to the name of the sect, I use the name “Mormon” in my blog and hence the title “Mormon Metrics.”</p>
 
 
-</main></div>
+
+
+<script async="" defer="" src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Survey Research,Rscript,Link to Dataset" data-listing-date-sort="1707631200000" data-listing-file-modified-sort="1739303846847" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="101">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./data/mormon_leavers/mormon_leavers.html" class="no-external">Mormon Leavers</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./data/mormon_leavers/mormon_leavers.html" class="no-external"></a>
 </div>
- <!-- /main -->
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Survey Research'); return false;">
+Survey Research
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Rscript'); return false;">
+Rscript
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Link to Dataset'); return false;">
+Link to Dataset
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./data/mormon_leavers/mormon_leavers.html" class="no-external">
+<div class="listing-date">
+Feb 11, 2024
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -177,6 +258,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

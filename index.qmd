@@ -8,18 +8,21 @@ about:
     - icon: substack
       text: Weekly Blog on Substack
       href: https://mormonmetrics.substack.com
-    - icon: twitter-x
-      text: Weekly Graphs on X
-      href: https://x.com/mormon_metrics
     - icon: instagram
       text: Weekly Reels on Instagram
       href: https://www.instagram.com/mormon_metrics/
+    - icon: youtube
+      text: Occasional Deep Dive on Youtube
+      href: https://x.com/mormon_metrics
+    - icon: cookie
+      text: Buy me a crumbl cookie
+      href: https://buymeacoffee.com/acbass49y
 ---
 
 **Purpose:** To better inform the public - mormons and non-mormons alike - of mormon ideas, trends, and demographic movements *backed with the best data available*. Generally, I utilize quality survey datasets such as [GSS](https://gss.norc.org), [NationScape](https://www.voterstudygroup.org/data/nationscape), and the [CES](https://cces.gov.harvard.edu). At times, I will also scrape data from public sources to find insights.
 
 This information is diseminated in a weekly blog out on Friday mornings usually with a new data figure to talk about. Subscribe if you like!
 
-**About me:** I am a social scientist and data scientist. I have an undergraduate degree in political science and a masters in data science. I have worked in the political polling industry and, most recently, the marketing data science field the past several years. You can read more about me on [my personal website](https://alexbass.me). 
+**About me:** I am a social scientist and data scientist. I have an undergraduate degree in political science and a masters in data science. I have worked in the political polling industry and, most recently, the marketing data science field. You can read more about me on [my personal website](https://alexbass.me). 
 
 **Terminology:** Some latter-day saints may be concerned because my title isn't [the correct name of the church](https://www.churchofjesuschrist.org/study/general-conference/2018/10/the-correct-name-of-the-church?lang=eng). However, this blog is about the entirety of the [Mormon sect](https://en.wikipedia.org/wiki/List_of_denominations_in_the_Latter_Day_Saint_movement) including the Church of Jesus Christ of Latter-Day Saints, Community of Christ, and others. So, in reference to the name of the sect, I use the name "Mormon" in my blog and hence the title "Mormon Metrics."

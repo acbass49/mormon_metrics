@@ -31,5 +31,20 @@
   },
   "posts/name_change_trends/index.qmd": {
     "index.html": "ab80bd46"
+  },
+  "projects.qmd": {
+    "projects.html": "fd83ebad"
+  },
+  "projects/official_membership_dashboard.qmd": {
+    "official_membership_dashboard.html": "797b72fc"
+  },
+  "data.qmd": {
+    "data.html": "cfa4b11f"
+  },
+  "data/mormon_leavers/mormon_leavers.qmd": {
+    "mormon_leavers.html": "453ca53a"
+  },
+  "contact.qmd": {
+    "contact.html": "22256490"
   }
 }

@@ -1,0 +1,13 @@
+---
+title: Datasets and Scripts
+listing:
+  contents: data
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  fields: [title, categories, date]
+page-layout: article
+comments: false
+---
