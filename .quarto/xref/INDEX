@@ -46,5 +46,11 @@
   },
   "contact.qmd": {
     "contact.html": "22256490"
+  },
+  "dataset.qmd": {
+    "dataset.html": "5c1372c5"
+  },
+  "dataset/mormon_leavers/mormon_leavers.qmd": {
+    "mormon_leavers.html": "e937fdd6"
   }
 }

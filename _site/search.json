@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "data.html",
-    "href": "data.html",
-    "title": "Datasets and Scripts",
-    "section": "",
-    "text": "Mormon Leavers\n\n\n\n\n\n\nSurvey Research\n\n\nRscript\n\n\nLink to Dataset\n\n\n\n\n\n\nFeb 11, 2024\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Quick Links",
     "section": "",
     "text": "Purpose: To better inform the public - mormons and non-mormons alike - of mormon ideas, trends, and demographic movements backed with the best data available. Generally, I utilize quality survey datasets such as GSS, NationScape, and the CES. At times, I will also scrape data from public sources to find insights.\nThis information is diseminated in a weekly blog out on Friday mornings usually with a new data figure to talk about. Subscribe if you like!\nAbout me: I am a social scientist and data scientist. I have an undergraduate degree in political science and a masters in data science. I have worked in the political polling industry and, most recently, the marketing data science field. You can read more about me on my personal website.\nTerminology: Some latter-day saints may be concerned because my title isn’t the correct name of the church. However, this blog is about the entirety of the Mormon sect including the Church of Jesus Christ of Latter-Day Saints, Community of Christ, and others. So, in reference to the name of the sect, I use the name “Mormon” in my blog and hence the title “Mormon Metrics.”"
+  },
+  {
+    "objectID": "dataset/mormon_leavers/mormon_leavers.html",
+    "href": "dataset/mormon_leavers/mormon_leavers.html",
+    "title": "Mormon Leavers",
+    "section": "",
+    "text": "Description\nThe Pew Research Center’s 2014 Religious Landscape Study is a comprehensive survey of the religious affiliations, beliefs, and practices of over 35,000 adults in the United States. It found that the Christian share of the population is declining, while the religiously unaffiliated (“nones”) are growing. The study also explored the diversity within religious groups, including differences in beliefs and practices.\nIn my analysis, I filtered this dataset to those who identified as Mormon or grew up Mormon (n=893)\nAccess the data at this link. You have to create an account, but they are good about never emailing you.\nDownload my Rscript with comments here"
   },
   {
     "objectID": "contact.html",
@@ -21,10 +21,10 @@
     "text": "Thanks for reading Mormon Metrics and wanting to take our relationship further!\nThese are all great reasons to contact me…\n\nYou want to write a Mormon Metrics post\nYou want to collaborate with your platform\nYou want me to use your data\nYou want me to write on your platform\nYou have questions about an analysis I did\nYou have ideas about future topics I should look at\nYou want to introduce yourself and talk about data, mormonism, or anything else!\n\nEmail me here\nIf you’ve enjoyed my free weekly analysis, conside buying me a crumble cookie 🙂"
   },
   {
-    "objectID": "data/mormon_leavers/mormon_leavers.html",
-    "href": "data/mormon_leavers/mormon_leavers.html",
-    "title": "Mormon Leavers",
+    "objectID": "dataset.html",
+    "href": "dataset.html",
+    "title": "Datasets and Scripts",
     "section": "",
-    "text": "Description\nThe Pew Research Center’s 2014 Religious Landscape Study is a comprehensive survey of the religious affiliations, beliefs, and practices of over 35,000 adults in the United States. It found that the Christian share of the population is declining, while the religiously unaffiliated (“nones”) are growing. The study also explored the diversity within religious groups, including differences in beliefs and practices.\nIn my analysis, I filtered this dataset to those who identified as Mormon or grew up Mormon (n=893)\nAccess the data at this link. You have to create an account, but they are good about never emailing you.\nDownload my Rscript with comments here"
+    "text": "Mormon Leavers\n\n\n\n\n\n\nSurvey Research\n\n\nRscript\n\n\nLink to Dataset\n\n\n\n\n\n\nFeb 11, 2024\n\n\n\n\n\n\nNo matching items"
   }
 ]

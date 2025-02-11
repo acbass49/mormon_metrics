@@ -1,7 +1,7 @@
 ---
 title: Datasets and Scripts
 listing:
-  contents: data
+  contents: dataset
   sort: "date desc"
   type: default
   categories: true
