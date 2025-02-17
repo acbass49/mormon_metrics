@@ -24,4 +24,8 @@ On the sidebar, I have provided the following resources:
 1. `R Script` - this is an r file that contains the code for my models & the analysis. I left comments explaining the code. You should be able to run through it line-by-line for those interested.
 2. `Data` - Access the data by clicking the link on the side. You have to create an account with Pew Research Center if you don't already have one, but they are good about never emailing you.
 
+:::{.callout-note}
+Must view this page on desktop - not mobile - to see the links.
+:::
+
 For questions and comments, please contact me (see the contact tab of this website for my email)
