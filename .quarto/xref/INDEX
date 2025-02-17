@@ -52,5 +52,14 @@
   },
   "dataset/mormon_leavers/mormon_leavers.qmd": {
     "mormon_leavers.html": "e937fdd6"
+  },
+  "dataset/byu_football_stats/index.qmd": {
+    "index.html": "cfff1f93"
+  },
+  "dataset/ldsdotorg/index.qmd": {
+    "index.html": "fc167d2c"
+  },
+  "dataset/dwts/index.qmd": {
+    "index.html": "5cf91538"
   }
 }

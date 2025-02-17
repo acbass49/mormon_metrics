@@ -2,7 +2,10 @@
   {
     "listing": "/dataset.html",
     "items": [
-      "/dataset/mormon_leavers/mormon_leavers.html"
+      "/dataset/mormon_leavers/mormon_leavers.html",
+      "/dataset/dwts/index.html",
+      "/dataset/byu_football_stats/index.html",
+      "/dataset/ldsdotorg/index.html"
     ]
   }
 ]

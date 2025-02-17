@@ -1,8 +1,7 @@
 ---
 title: Mormon Leavers
-date: '2024-02-11'
+date: '2025-02-11'
 categories: [Survey Research, Rscript, Link to Dataset]
-image: https://www.ldstemple.pics/wp-content/uploads/washington-dc-temple-final-sunset-600x600.jpg
 title-block-banner: false
 code-links:
   - text: R Script
