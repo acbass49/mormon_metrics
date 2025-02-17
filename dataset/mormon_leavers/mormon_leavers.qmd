@@ -6,7 +6,7 @@ title-block-banner: false
 code-links:
   - text: R Script
     icon: code-slash
-    href: /dataset/mormon_leavers/Mormon_Leavers_Analysis.R
+    href: /scripts/Mormon_Leavers_Analysis.R
   - text: Data
     icon: database
     href: https://www.pewresearch.org/dataset/pew-research-center-2014-u-s-religious-landscape-study/
