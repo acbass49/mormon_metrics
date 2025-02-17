@@ -1,7 +1,7 @@
 ---
 title: Dancing With The Stars & Utah
 date: '2024-11-22'
-categories: [Manual, Download on-site]
+categories: [Manual, Download Dataset]
 title-block-banner: false
 code-links:
   - text: Data

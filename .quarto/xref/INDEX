@@ -61,5 +61,8 @@
   },
   "dataset/dwts/index.qmd": {
     "index.html": "5cf91538"
+  },
+  "dataset/temple_data/index.qmd": {
+    "index.html": "348e91b1"
   }
 }

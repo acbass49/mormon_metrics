@@ -1,7 +1,7 @@
 ---
 title: BYU Football Stats
 date: '2024-11-07'
-categories: [Scraped, Download on-site]
+categories: [Scraped, Download Dataset]
 title-block-banner: false
 code-links:
   - text: Data

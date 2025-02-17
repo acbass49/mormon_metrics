@@ -1,0 +1,24 @@
+---
+title: Temple data
+date: '2024-07-23'
+categories: [Scraped, Download Dataset]
+title-block-banner: false
+code-links:
+  - text: Data
+    icon: database
+    href: /dataset/temple_data/temple_data.zip
+---
+
+#### Description
+
+For [one of my posts](https://mormonmetrics.substack.com/p/data-behind-the-texas-temple-controversy), I scraped data from [this site](https://churchofjesuschristtemples.org/).
+
+On the sidebar, I have provided the following resources:
+
+1. `Data` - I scraped several tables and put them into a zip file. Browse the linked site for more information on the tables.
+
+:::{.callout-note}
+Must view this page on desktop - not mobile - to see the links.
+:::
+
+For questions and comments, please contact me (see the contact tab of this website for my email)
