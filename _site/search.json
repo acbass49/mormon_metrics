@@ -1,8 +1,8 @@
 [
   {
-    "objectID": "Dashboards.html",
-    "href": "Dashboards.html",
-    "title": "mormon metrics",
+    "objectID": "dashboards.html",
+    "href": "dashboards.html",
+    "title": "Dashboards",
     "section": "",
     "text": "Sometimes I build dashboards to help visualize trends in Mormonism. Here are a few links to dashboards I’ve built.\n\nUS County-Level LDS Growth Dashboard - Get the most granualar view available for membership and congregation change for the Church of Jesus Christ of Latter-day Saints. The changes are from 2010 to 2020. I will do another iteration in 2030 assuming more numbers are released at that time."
   },
@@ -19,12 +19,5 @@
     "title": "Quick Links",
     "section": "",
     "text": "Purpose: To better inform the public - mormons and non-mormons alike - of mormon ideas, trends, and demographic movements backed with the best data available. Generally, I utilize quality survey datasets such as GSS, NationScape, and the CES. At times, I will also scrape data from public sources to find insights.\nThis information is diseminated in a weekly blog out on Friday mornings usually with a new data figure to talk about. Subscribe if you like!\nAbout me: I am a social scientist and data scientist. I have an undergraduate degree in political science and a masters in data science. I have worked in the political polling industry and, most recently, the marketing data science field. You can read more about me on my personal website.\nTerminology: Some latter-day saints may be concerned because my title isn’t the correct name of the church. However, this blog is about the entirety of the Mormon sect including the Church of Jesus Christ of Latter-Day Saints, Community of Christ, and others. So, in reference to the name of the sect, I use the name “Mormon” in my blog and hence the title “Mormon Metrics.”"
-  },
-  {
-    "objectID": "dashboards.html",
-    "href": "dashboards.html",
-    "title": "Dashboards",
-    "section": "",
-    "text": "Sometimes I build dashboards to help visualize trends in Mormonism. Here are a few links to dashboards I’ve built.\n\nUS County-Level LDS Growth Dashboard - Get the most granualar view available for membership and congregation change for the Church of Jesus Christ of Latter-day Saints. The changes are from 2010 to 2020. I will do another iteration in 2030 assuming more numbers are released at that time."
   }
 ]
