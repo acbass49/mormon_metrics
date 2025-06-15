@@ -64,5 +64,17 @@
   },
   "dataset/temple_data/index.qmd": {
     "index.html": "348e91b1"
+  },
+  "Demo Dashboard/index.qmd": {
+    "index.html": "3df7a75e"
+  },
+  "Dashboards/Demo Dashboard/index.qmd": {
+    "index.html": "f6f4e530"
+  },
+  "Dashboards.qmd": {
+    "Dashboards.html": "d913fe89"
+  },
+  "dashboards.qmd": {
+    "dashboards.html": "0daa2978"
   }
 }

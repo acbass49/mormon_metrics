@@ -6,7 +6,7 @@ website:
   navbar:
     left:
       - index.qmd
-      - dataset.qmd
+      - dashboards.qmd
       - contact.qmd
     logo: file-bar-graph.svg
   favicon: file-bar-graph.svg

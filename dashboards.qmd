@@ -1,0 +1,8 @@
+---
+title: "Dashboards"
+---
+
+Sometimes I build dashboards to help visualize trends in Mormonism. Here are a few links to dashboards I've built.
+
+- [US County-Level LDS Growth Dashboard](https://mormon-metrics-religion-census.streamlit.app/) - Get the most granualar view available for membership and congregation change for the Church of Jesus Christ of Latter-day Saints. The changes are from 2010 to 2020. I will do another iteration in 2030 assuming more numbers are released at that time.
+![](dash_1.png)

@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Quick Links",
+    "objectID": "Dashboards.html",
+    "href": "Dashboards.html",
+    "title": "mormon metrics",
     "section": "",
-    "text": "Purpose: To better inform the public - mormons and non-mormons alike - of mormon ideas, trends, and demographic movements backed with the best data available. Generally, I utilize quality survey datasets such as GSS, NationScape, and the CES. At times, I will also scrape data from public sources to find insights.\nThis information is diseminated in a weekly blog out on Friday mornings usually with a new data figure to talk about. Subscribe if you like!\nAbout me: I am a social scientist and data scientist. I have an undergraduate degree in political science and a masters in data science. I have worked in the political polling industry and, most recently, the marketing data science field. You can read more about me on my personal website.\nTerminology: Some latter-day saints may be concerned because my title isn’t the correct name of the church. However, this blog is about the entirety of the Mormon sect including the Church of Jesus Christ of Latter-Day Saints, Community of Christ, and others. So, in reference to the name of the sect, I use the name “Mormon” in my blog and hence the title “Mormon Metrics.”"
-  },
-  {
-    "objectID": "dataset/dwts/index.html",
-    "href": "dataset/dwts/index.html",
-    "title": "Dancing With The Stars & Utah",
-    "section": "",
-    "text": "Description\nI did an analysis here of dancing with the stars & utahns here. There is no dataset (that I know of) that has this data. There was no place to scrape this - except going through manually of all known dancing with the stars professional dancers.\nOn the sidebar, I have provided the following resources:\n\nData - This is the dataset after manually gathering information for each professional dancer. Fields are name, state/country, region, Followers on instagram. Timestamp of this data is November 22, 2024.\n\n\n\n\n\n\n\nNote\n\n\n\nMust view this page on desktop - not mobile - to see the links.\n\n\nFor questions and comments, please contact me (see the contact tab of this website for my email)"
-  },
-  {
-    "objectID": "dataset/ldsdotorg/index.html",
-    "href": "dataset/ldsdotorg/index.html",
-    "title": "Scraped LDS.org Statistics",
-    "section": "",
-    "text": "Description\nLDS.org recently added a statistics page which has various datapoints for world regions. I scraped this data on 23 of July 2024. I plan to scrape it again when it is updated each April conference. I used this data to create this post.\nOn the sidebar, I have provided the following resources:\n\nData - This is a link to take you to my github repository where I scraped this. It has my code and my data.\n\n\n\n\n\n\n\nNote\n\n\n\nMust view this page on desktop - not mobile - to see the links.\n\n\nFor questions and comments, please contact me (see the contact tab of this website for my email)"
-  },
-  {
-    "objectID": "dataset/byu_football_stats/index.html",
-    "href": "dataset/byu_football_stats/index.html",
-    "title": "BYU Football Stats",
-    "section": "",
-    "text": "Description\nI did an analysis here of all BYU vs. Utah football games here. There is no dataset (that I know of) that has this data. So, I scraped it from this site.\nOn the sidebar, I have provided the following resources:\n\nData - This is the dataset after scraping it. It has every single BYU football game with the score and other meta data. The column names should be self explanatory.\n\n\n\n\n\n\n\nNote\n\n\n\nMust view this page on desktop - not mobile - to see the links.\n\n\nFor questions and comments, please contact me (see the contact tab of this website for my email)"
+    "text": "Sometimes I build dashboards to help visualize trends in Mormonism. Here are a few links to dashboards I’ve built.\n\nUS County-Level LDS Growth Dashboard - Get the most granualar view available for membership and congregation change for the Church of Jesus Christ of Latter-day Saints. The changes are from 2010 to 2020. I will do another iteration in 2030 assuming more numbers are released at that time."
   },
   {
     "objectID": "contact.html",
@@ -35,24 +14,17 @@
     "text": "Thanks for reading Mormon Metrics and wanting to take our relationship further!\nThese are all great reasons to contact me…\n\nYou want to write a Mormon Metrics post\nYou want to collaborate with your platform\nYou want me to use your data\nYou want me to write on your platform\nYou have questions about an analysis I did\nYou have ideas about future topics I should look at\nYou want to introduce yourself and talk about data, mormonism, or anything else!\n\nEmail me here\nIf you’ve enjoyed my free weekly analysis, conside buying me a crumble cookie 🙂"
   },
   {
-    "objectID": "dataset/temple_data/index.html",
-    "href": "dataset/temple_data/index.html",
-    "title": "Temple data",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quick Links",
     "section": "",
-    "text": "Description\nFor one of my posts, I scraped data from this site.\nOn the sidebar, I have provided the following resources:\n\nData - I scraped several tables and put them into a zip file. Browse the linked site for more information on the tables.\n\n\n\n\n\n\n\nNote\n\n\n\nMust view this page on desktop - not mobile - to see the links.\n\n\nFor questions and comments, please contact me (see the contact tab of this website for my email)"
+    "text": "Purpose: To better inform the public - mormons and non-mormons alike - of mormon ideas, trends, and demographic movements backed with the best data available. Generally, I utilize quality survey datasets such as GSS, NationScape, and the CES. At times, I will also scrape data from public sources to find insights.\nThis information is diseminated in a weekly blog out on Friday mornings usually with a new data figure to talk about. Subscribe if you like!\nAbout me: I am a social scientist and data scientist. I have an undergraduate degree in political science and a masters in data science. I have worked in the political polling industry and, most recently, the marketing data science field. You can read more about me on my personal website.\nTerminology: Some latter-day saints may be concerned because my title isn’t the correct name of the church. However, this blog is about the entirety of the Mormon sect including the Church of Jesus Christ of Latter-Day Saints, Community of Christ, and others. So, in reference to the name of the sect, I use the name “Mormon” in my blog and hence the title “Mormon Metrics.”"
   },
   {
-    "objectID": "dataset/mormon_leavers/mormon_leavers.html",
-    "href": "dataset/mormon_leavers/mormon_leavers.html",
-    "title": "Mormon Leavers",
+    "objectID": "dashboards.html",
+    "href": "dashboards.html",
+    "title": "Dashboards",
     "section": "",
-    "text": "Description\nThe Pew Research Center’s 2014 Religious Landscape Study is a comprehensive survey of the religious affiliations, beliefs, and practices of over 35,000 adults in the United States. It found that the Christian share of the population is declining, while the religiously unaffiliated (“nones”) are growing. The study also explored the diversity within religious groups, including differences in beliefs and practices.\nIn my analysis, I filtered this dataset to those who identified as Mormon or grew up Mormon (n=893).\nI used this script and data for 3 of a 4-part series… part2, part3, and part4. Part1 I looked at slightly different groups Less active vs. Active vs. Disaffiliated. Whereas part 2,3,and 4, I only looked at those raised in the church who still identify vs don’t identify.\nOn the sidebar, I have provided the following resources:\n\nR Script - this is a link to an r file that contains the code for my models & the analysis. I left comments explaining the code. You should be able to run through it line-by-line for those interested.\nData - Access the data by clicking the link on the side. You have to create an account with Pew Research Center if you don’t already have one, but they are good about never emailing you.\n\n\n\n\n\n\n\nNote\n\n\n\nMust view this page on desktop - not mobile - to see the links.\n\n\nFor questions and comments, please contact me (see the contact tab of this website for my email)"
-  },
-  {
-    "objectID": "dataset.html",
-    "href": "dataset.html",
-    "title": "Datasets and Scripts",
-    "section": "",
-    "text": "Mormon Leavers\n\n\n\n\n\n\nSurvey Research\n\n\nRscript\n\n\nLink to Dataset\n\n\n\n\n\n\nFeb 11, 2025\n\n\n\n\n\n\n\nDancing With The Stars & Utah\n\n\n\n\n\n\nManual\n\n\nDownload Dataset\n\n\n\n\n\n\nNov 22, 2024\n\n\n\n\n\n\n\nBYU Football Stats\n\n\n\n\n\n\nScraped\n\n\nDownload Dataset\n\n\n\n\n\n\nNov 7, 2024\n\n\n\n\n\n\n\nTemple data\n\n\n\n\n\n\nScraped\n\n\nDownload Dataset\n\n\n\n\n\n\nJul 26, 2024\n\n\n\n\n\n\n\nScraped LDS.org Statistics\n\n\n\n\n\n\nScraped\n\n\nLink to Dataset\n\n\n\n\n\n\nJul 23, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Sometimes I build dashboards to help visualize trends in Mormonism. Here are a few links to dashboards I’ve built.\n\nUS County-Level LDS Growth Dashboard - Get the most granualar view available for membership and congregation change for the Church of Jesus Christ of Latter-day Saints. The changes are from 2010 to 2020. I will do another iteration in 2030 assuming more numbers are released at that time."
   }
 ]

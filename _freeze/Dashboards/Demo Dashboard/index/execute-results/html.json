@@ -1,0 +1,12 @@
+{
+  "hash": "0c09a2387f82e8e34421faaf9cb58b9e",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Demo Dashboard\"\ndate: \"2023-12-31\"\ncategories: [Python, Stats, Dataviz, Dashboard]\nimage: ./nail.png\ntitle-block-banner: false\ndate-modified: today\nfreeze: true\nformat: \n  dashboard:\n    expandable: false\n    scrolling: true\njupyter: python3\n---\n\n```{ojs}\n//| panel: input\nviewof demo = Inputs.select(\n    [\"red\", \n    \"orange\", \n    \"yellow\", \n    \"green\", \n    \"blue\", \n    \"violet\"], \n    {value: \"green\", label: \"demographic:\"})\nviewof question = Inputs.select(\n    [\"red\", \n    \"orange\", \n    \"yellow\", \n    \"green\", \n    \"blue\", \n    \"violet\"], \n    {value: \"green\", label: \"survey question:\"})\n```\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
