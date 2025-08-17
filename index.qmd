@@ -12,7 +12,7 @@ about:
       text: Weekly Reels on Instagram
       href: https://www.instagram.com/mormon_metrics/
     - icon: twitter-x
-      text: Weekly Chart on X
+      text: Weekly Charts on X
       href: https://x.com/mormon_metrics
 ---
 
