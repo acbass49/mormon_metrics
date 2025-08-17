@@ -6,16 +6,17 @@ Thanks for reading Mormon Metrics and wanting to take our relationship further!
 
 These are all great reasons to contact me...
 
+0. You want to hire me
 1. You want to write a Mormon Metrics post
 2. You want to collaborate with your platform
 3. You want me to use your data
 4. You want me to write on your platform
-5. You have questions about an analysis I did
+5. You have questions about analysis I did
 6. You have ideas about future topics I should look at
 7. You want to introduce yourself and talk about data, mormonism, or anything else!
 
 Email me <a href="mailto:hello@alexbass.me">here</a>
 
-If you've enjoyed my free weekly analysis, conside buying me a crumble cookie 🙂
+If you haven't already, consider subscribing to my weekly substack.
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="acbass49y" data-color="#5F7FFF" data-emoji="🍪"  data-font="Bree" data-text="Buy me a crumbl cookie" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<iframe src="https://mormonmetrics.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

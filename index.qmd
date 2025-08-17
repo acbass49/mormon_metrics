@@ -11,12 +11,9 @@ about:
     - icon: instagram
       text: Weekly Reels on Instagram
       href: https://www.instagram.com/mormon_metrics/
-    - icon: youtube
-      text: Occasional Deep Dive on Youtube
-      href: https://www.youtube.com/@mormon_metrics
-    - icon: cookie
-      text: Buy me a crumbl cookie
-      href: https://buymeacoffee.com/acbass49y
+    - icon: twitter-x
+      text: Weekly Chart on X
+      href: https://x.com/mormon_metrics
 ---
 
 **Purpose:** To better inform the public - mormons and non-mormons alike - of mormon ideas, trends, and demographic movements *backed with the best data available*. Generally, I utilize quality survey datasets such as [GSS](https://gss.norc.org), [NationScape](https://www.voterstudygroup.org/data/nationscape), and the [CES](https://cces.gov.harvard.edu). At times, I will also scrape data from public sources to find insights.
